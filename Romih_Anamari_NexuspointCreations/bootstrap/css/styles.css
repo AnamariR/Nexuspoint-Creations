@@ -1,0 +1,94 @@
+.games-section {
+  background-color:#F7EFED;
+  padding: 5%;
+}
+.jumbotron {
+     background-color: #33546D;
+     padding: 5%;
+     color: white;
+}
+.news-section{
+     background-color: #33546D;
+     padding: 5%;
+     color: white;
+}
+.footer-section {
+     background-color:#F7EFED ;
+     padding: 5%;
+}
+.fa {
+ padding: 30px;
+ font-size: 30px;
+ width: 100px;
+ text-align: center;
+}
+
+.fa:hover {
+   opacity: 0.5;
+   text-decoration: none;
+}
+.fa-facebook {
+ background: #3B5998;
+ color: white;
+}
+
+.fa-twitter {
+ background: #55ACEE;
+ color: white;
+}
+.fa-instagram {
+ background: #8134af;
+ color: white;
+}
+.fa-reddit {
+ background:#FF5700;
+ color: white;
+}
+.link-footer{
+     color: #33546D;
+}
+.link-footer:hover{
+     text-decoration:none;
+     color:#F5838E;
+}
+.size{
+     font-size: 100%;
+}
+.effect:hover{
+     color:#F5838E;
+     text-decoration:none;
+}
+.effect{
+     color: white;
+}
+.myStylingButton{
+     color:#33546D;
+     background-color: #F7EFED;
+}
+.myStylingButton:hover{
+     color:#F7EFED;
+     background-color: #F5838E;
+
+}
+.headerSpecial{
+     font-size: 500%;
+     align-content: center;
+     line-height: 100%;
+}
+.highlightsOfText{
+     color:#F5838E;
+     font-style:italic;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}

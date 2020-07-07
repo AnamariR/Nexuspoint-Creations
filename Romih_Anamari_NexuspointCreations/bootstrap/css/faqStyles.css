@@ -1,0 +1,18 @@
+.faqAccordion {
+     color: #5f78ba;
+     font-style: italic;
+     font-size: 120%;
+}
+.faqAccordion : hover{
+     text-decoration: none;
+     color: black;
+}
+.newsTitle {
+     color: white;
+     font-style: italic;
+     font-size: 150%;
+     text-align: center;
+}
+.noviLink :hover {
+     text-decoration: none;
+}
